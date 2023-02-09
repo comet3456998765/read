@@ -72,7 +72,7 @@ Skip.BackgroundColor3 = Color3.fromRGB(56, 56, 56)
 Skip.Position = UDim2.new(0.303258598, 0, 0.836080611, 0)
 Skip.Size = UDim2.new(0, 165, 0, 30)
 Skip.Font = Enum.Font.SourceSans
-Skip.Text = "Skip >"
+Skip.Text = "Skip / ok"
 Skip.TextColor3 = Color3.fromRGB(255, 255, 255)
 Skip.TextSize = 14.000
 Skip.MouseButton1Click:Connect(function)
